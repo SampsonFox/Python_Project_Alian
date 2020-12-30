@@ -1,0 +1,47 @@
+('D:\\Python\\Python Progect Alian\\build\\alien_invasion\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'D:\\Python\\Python Progect Alian\\build\\alien_invasion\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'D:\\Python\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\python\\python progect '
+   'alian\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\python\\python progect '
+   'alian\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\python\\python progect '
+   'alian\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\python\\python progect '
+   'alian\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Python\\Python Progect '
+   'Alian\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Python\\Python Progect '
+   'Alian\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('alien_invasion',
+   'D:\\Python\\Python Progect Alian\\alien_invasion.py',
+   'PYSOURCE'),
+  ('alien_invasion.exe.manifest',
+   'D:\\Python\\Python Progect '
+   'Alian\\build\\alien_invasion\\alien_invasion.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
